@@ -1,25 +1,25 @@
 # Research
-- https://www.youtube.com/watch?v=YXPyB4XeYLA
-- https://www.youtube.com/watch?v=bPSfyK_DJAg&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=4
-- https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
-- https://gordonlesti.com/use-tkinter-without-mainloop/
-- https://www.geeksforgeeks.org/python-opencv-cv2-flip-method/
-- https://towardsdatascience.com/camera-app-with-flask-and-opencv-bd147f6c0eec
-- https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
-- https://pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
-- https://pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
-- https://realpython.com/face-detection-in-python-using-a-webcam/
-- https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
-- https://github.com/mrnugget/opencv-haar-classifier-training
-- https://github.com/techwithtim/OpenCV-Tutorials/blob/main/tutorial8.py
-- https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
-- https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/
-- https://www.youtube.com/watch?v=XrCAvs9AePM
-- https://docs.opencv.org/4.7.0/dc/d88/tutorial_traincascade.html
-- https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
-- https://github.com/handaga/tutorial-haartraining/tree/master
-- https://answers.opencv.org/question/219106/osx-cant-find-opencv_createsamples-opencv_traincascade/
-- https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
-- https://www.geeksforgeeks.org/how-to-change-the-tkinter-label-font-size/
-- https://www.photopea.com/
-- https://colorizer.org/
+- https://www.youtube.com/watch?v=YXPyB4XeYLA (TKinter Tutorial Course)
+- https://www.youtube.com/watch?v=bPSfyK_DJAg&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=4 (OpenCV Tutorials)
+- https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html (OpenCV Documentation)
+- https://gordonlesti.com/use-tkinter-without-mainloop/ (Using Tkinter in custom while loop)
+- https://www.geeksforgeeks.org/python-opencv-cv2-flip-method/ (Flip OpenCV Camera feed)
+- https://towardsdatascience.com/camera-app-with-flask-and-opencv-bd147f6c0eec (WebApp bare bones version, only used for exploring options)
+- https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/ (exploring openCV detection)
+- https://pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/ (more OpenCV object detection)
+- https://pyimagesearch.com/2017/08/21/deep-learning-with-opencv/ (OpenCV learning)
+- https://realpython.com/face-detection-in-python-using-a-webcam/ (Using Face detection in OpenCV)
+- https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html (TRAINING MY OWN AI, outdated article but helpful)
+- https://github.com/mrnugget/opencv-haar-classifier-training (source code for above article)
+- https://github.com/techwithtim/OpenCV-Tutorials/blob/main/tutorial8.py (OpenCV TechwTim Tutorials Source Code)
+- https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html (OpenCV Documentation)
+- https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/ (Add images in buttons Tkinter)
+- https://www.youtube.com/watch?v=XrCAvs9AePM (more about OpenCV, used for setting up training on windows system)
+- https://docs.opencv.org/4.7.0/dc/d88/tutorial_traincascade.html (OpenCV documentation for training Custom ALGORITHM, VERY HELPFUL)
+- https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/ (Similar tutorial for filling the gaps of above article)
+- https://github.com/handaga/tutorial-haartraining/tree/master (Used for getting negative images off the internet)
+- https://answers.opencv.org/question/219106/osx-cant-find-opencv_createsamples-opencv_traincascade/ (Debugging training commands)
+- https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e (more training tutorial)
+- https://www.geeksforgeeks.org/how-to-change-the-tkinter-label-font-size/ (tkinter label formatting)
+- https://www.photopea.com/ (GREAT website I used for editing all the images on the buttons in the resources folder)
+- https://colorizer.org/ (Used for getting the BGR values for colors in the color mask ranges)
